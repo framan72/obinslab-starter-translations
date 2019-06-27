@@ -82,7 +82,7 @@ preferences.update.check: Sprawdź dostępność aktualizacji
 preferences.update.check.failed: Spróbuj ponownie
 preferences.update.version.current: Wersja
 preferences.update.version.new: Nowa wersja
-preferences.update.version.no_new: Brak nowej wersji
+preferences.update.version.no_new: Ta wersja jest aktualna
 preferences.update.download: Pobierz
 preferences.update.download.done: Pakiet aktualizacji został pobrany
 preferences.update.install_now: Instaluj teraz
